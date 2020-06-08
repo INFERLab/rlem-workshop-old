@@ -1,0 +1,60 @@
+<h2 class="section-title">{{ .titles.program.title }}</h2>
+
+<p>Talk 20 mins, QA 5 mins.</p>
+<div class="schedule-tbl">
+  <table>
+    <thead>
+      <tr>
+        <th class="schedule-time">Time</th>
+        <th class="schedule-slot">Session</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $slot := .program }}
+      {{ if eq .type "date" }}
+      <tr class="schedule-date">
+        <td colspan="2" class="schedule-date">{{ .date }}</td>
+      </tr>
+      {{ else }}
+      <tr class="schedule-other">
+        <td class="schedule-time">{{ .time }}</td>
+        <td class="schedule-slot">
+          {{ if eq .name "Break" }}
+          <span class="schedule-coffee fa fa-coffee fa-1x"></span>
+          {{ end }}
+          {{ if eq .name "Lunch" }}
+          <span class="schedule-lunch fa fa-cutlery fa-1x"></span>
+          {{ end }}
+          {{ with .link }}
+          <a href="#{{ . }}" target="_blank" rel="noopener" class="nav-link">
+            {{ end }}
+            {{ .name }}
+            {{ with .link }}
+          </a>
+          {{ end }}
+          {{ with .chair }}
+          <p class="presentation-name">Session chair: {{ . }}</p>
+          {{ end }}
+          {{ with .poster }}
+          <div class="open">
+            {{ end }}
+            {{ $counter := 0 }}
+            {{ range $slot := .poster }}
+            {{ $counter = add $counter 1 }}
+            <p class="presentation-title">{{ $counter }}. {{ .title }}</p>
+            <p class="presentation-name">{{ .author }}</p>
+            {{ end }}
+            {{ with .poster }}
+          </div>
+          {{ end }}
+          {{ range $slot := .presentation }}
+          <p class="presentation-title">{{ .title }}</p>
+          <p class="presentation-name">{{ .author }}</p>
+          {{ end }}
+        </td>
+      </tr>
+      {{ end }}
+      {{ end }}
+    </tbody>
+  </table>
+</div>

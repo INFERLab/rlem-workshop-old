@@ -1,0 +1,130 @@
+baseurl: "https://rlem-workshop.net/"
+title: "International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)"
+canonifyurls: true
+theme: "hugo-conference"
+
+GoogleAnalytics: ""
+
+params:
+  # Conference info
+  Name: "International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)"
+  Description: "The intention of the workshop is to bring together researchers and industry practitioners for the advancement of (deep) reinforcement learning (RL) in the built environment as it is applied for managing energy in infrastructure systems (power, transportation)."
+  Date: "To be determined, but co-located with ACM BuildSys"
+  Price: "TBD" # If your event is free, just comment this line
+  Venue: "Yokohama, Japan"
+  Address: "Online"
+  City:  "Yokohama"
+  # State: "Quintana"
+  Images: ["/img/badge.jpg"]
+  GoogleMapsKey: "my-secret-maps-key"
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    - important
+    - cfp
+    #- registration
+    - program
+    #- speakers
+    - organization
+    #- sponsors
+    #- partners
+    #- previous
+    #- contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    about: 
+        title: "Welcome to RLEM 2020"
+        abbr: "About"
+    important: 
+        title: "Important Dates"
+    cfp: 
+        title: "Call for Papers"
+        abbr: "CFP"
+    registration:
+        title: "Registration"
+    venue: 
+        title: "Venue"
+    speakers: 
+        title: "Invited Speakers"
+        abbr: "Speakers"
+    program: 
+        title: "Program"
+    organization: 
+        title: "Organization"
+    sponsors: 
+        title: "Sponsors"
+    partners: 
+        title: "Partners"
+    # contact: "Contact"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  CallToAction:
+    text: "Register now!"
+    link: "http://buildsys.acm.org/2020/registration/"
+
+  # List of Important Days
+  Important:
+    - name: "Abstract submission"
+      date: "July 27, 2020 (AOE)"
+      done: false 
+    - name: "Paper submission"
+      date: "August 3, 2020 (AOE)"
+      done: false 
+    - name: "Notifications"
+      date: "September 14, 2020 (AOE)"
+      done: false 
+    - name: "Camera Ready"
+      date: "September 28, 2020 (AOE)"
+      done: false 
+
+  # Fork me on GitHub, if you don't want this, just remove the forkButton property
+  #ForkButton:
+  #  repository: "https://github.com/jweslley/hugo-conference/"
+
+  # List of Sponsors
+  Sponsors:
+    - name: "Hugo"
+      logo: "/img/hugo.png"
+      url: "http://gohugo.io"
+
+  # List of Partners
+  Partners:
+    - name: "Hugo"
+      logo: "/img/hugo.jpg"
+      url: "https://gohugo.io"
+    - name: "BrazilJS"
+      logo: "/img/partner.png"
+      url: "http://braziljs.org"
+
+  # List of Organization
+  Organization:
+    - role: "General"
+      chair: true
+      member:
+        - name: "Zoltan Nagy"
+          affiliation: "University of Texas, Austin"
+        - name: "Mario Berges"
+          affiliation: "Carnegie Mellon University"
+    - role: "Program Committee Members"
+      chair: false
+      member:
+        - name: "Henning Lange"
+          url: "https://amath.washington.edu/people/henning-lange"
+          affiliation: "University of Washington"
+
+  # The entire program 
+  Program:
+
+    - type: "date"
+      date: "TBD"
+
+    - type: "session"
+      time: "9:00 - 10:30"
+      name: "TBD"
+      link: "speakers"
+
+
