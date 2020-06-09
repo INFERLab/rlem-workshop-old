@@ -9,7 +9,7 @@ params:
   # Conference info
   Name: "First Int'l Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)"
   Description: "RLEM brings together researchers and industry practitioners for the advancement of (deep) reinforcement learning (RL) in the built environment as it is applied for managing energy in civil infrastructure systems (energy, water, transportation)."
-  Date: "TBD in November 2020"
+  Date: " in November 2020"
   #Price: "TBD" # If your event is free, just comment this line
   Venue: "Yokohama, Japan"
   Address: "Online"
@@ -48,7 +48,7 @@ params:
     venue: 
         title: "Venue"
     speakers: 
-        title: "Invited Speakers"
+        title: "Keynote Speakers"
         abbr: "Speakers"
     program: 
         title: "Program"
