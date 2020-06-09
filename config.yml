@@ -25,8 +25,8 @@ params:
     - important
     - cfp
     #- registration
-    - program
-    #- speakers
+    #- program
+    - speakers
     - organization
     #- sponsors
     #- partners
@@ -133,4 +133,6 @@ params:
       name: "TBD"
       link: "speakers"
 
-
+  # Keynote speaker
+  Speakers:
+  - name: "TBD"
