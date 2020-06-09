@@ -106,7 +106,7 @@ params:
       chair: true
       member:
         - name: "Zoltan Nagy"
-          affiliation: "University of Texas, Austin"
+          affiliation: "University of Texas at Austin"
         - name: "Mario Berges"
           affiliation: "Carnegie Mellon University"
     - role: "Program Committee Members"
@@ -115,6 +115,12 @@ params:
         - name: "Henning Lange"
           url: "https://amath.washington.edu/people/henning-lange"
           affiliation: "University of Washington"
+        - name: "June Young Park"
+          url: "http://sites.utexas.edu/juneyoungpark/"
+          affiliation: "University of Texas at Austin"
+        - name: "Helia Zandi"
+          url: "https://www.ornl.gov/staff-profile/helia-zandi"
+          affiliation: "Oak Ridge National Laboratory"
 
   # The entire program 
   Program:
