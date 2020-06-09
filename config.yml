@@ -127,6 +127,9 @@ params:
         - name: "Zhe Wang"
           url: "https://buildings.lbl.gov/people/zhe-walter-wang"
           affiliation: "Lawrence Berkeley National Laboratory"
+        - name: "Bingqing Cheng"
+          url: "https://www.inferlab.org/authors/bingqingc/"
+          affiliation: "Carnegie Mellon University"
           
   # The entire program 
   Program:
