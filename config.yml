@@ -7,10 +7,10 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "International Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)"
-  Description: "The intention of the workshop is to bring together researchers and industry practitioners for the advancement of (deep) reinforcement learning (RL) in the built environment as it is applied for managing energy in infrastructure systems (power, transportation)."
-  Date: "To be determined, but co-located with ACM BuildSys"
-  Price: "TBD" # If your event is free, just comment this line
+  Name: "First Int'l Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)"
+  Description: "RLEM brings together researchers and industry practitioners for the advancement of (deep) reinforcement learning (RL) in the built environment as it is applied for managing energy in civil infrastructure systems (energy, water, transportation)."
+  Date: "TBD in November 2020"
+  #Price: "TBD" # If your event is free, just comment this line
   Venue: "Yokohama, Japan"
   Address: "Online"
   City:  "Yokohama"
@@ -109,7 +109,7 @@ params:
           affiliation: "University of Texas at Austin"
         - name: "Mario Berges"
           affiliation: "Carnegie Mellon University"
-    - role: "Program Committee Members"
+    - role: "Technial Program Committee"
       chair: false
       member:
         - name: "Henning Lange"
