@@ -121,7 +121,13 @@ params:
         - name: "Helia Zandi"
           url: "https://www.ornl.gov/staff-profile/helia-zandi"
           affiliation: "Oak Ridge National Laboratory"
-
+        - name: "Jose Vazquez-Canteli"
+          url: "http://nagy.caee.utexas.edu"
+          affiliation: "University of Texas at Austin" 
+        - name: "Zhe Wang"
+          url: "https://buildings.lbl.gov/people/zhe-walter-wang"
+          affiliation: "Lawrence Berkeley National Laboratory"
+          
   # The entire program 
   Program:
 
