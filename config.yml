@@ -148,9 +148,9 @@ params:
         - name: "Lucas Spangheer"
           url: ""
           affiliation: "University of California, Berkeley"
-        - name: ""
-          url: ""
-          affiliation: ""
+ #       - name: ""
+ #         url: ""
+ #         affiliation: ""
           
   # The entire program 
   Program:
