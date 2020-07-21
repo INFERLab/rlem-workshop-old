@@ -109,7 +109,7 @@ params:
           affiliation: "University of Texas at Austin"
         - name: "Mario Berges"
           affiliation: "Carnegie Mellon University"
-    - role: "Technial Program Committee"
+    - role: "Technical Program Committee"
       chair: false
       member:
         - name: "Henning Lange"
