@@ -109,7 +109,7 @@ params:
           affiliation: "University of Texas at Austin"
         - name: "Mario Berges"
           affiliation: "Carnegie Mellon University"
-    - role: "Technical Program Committee Chairs"
+    - role: "Technical Program Committee"
       chair: true
       member:
         - name: "Mario Berges"
@@ -118,16 +118,12 @@ params:
           affiliation: "Carnegie Mellon University"
         - name: "June Young Park"
           affiliation: "University of Texas at Arlington"
-          
     - role: "Technical Program Committee"
       chair: false
       member:
         - name: "Henning Lange"
           url: "https://amath.washington.edu/people/henning-lange"
           affiliation: "University of Washington"
-        - name: "June Young Park"
-          url: "http://sites.utexas.edu/juneyoungpark/"
-          affiliation: "University of Texas at Arlington"
         - name: "Helia Zandi"
           url: "https://www.ornl.gov/staff-profile/helia-zandi"
           affiliation: "Oak Ridge National Laboratory"
@@ -137,9 +133,6 @@ params:
         - name: "Zhe Wang"
           url: "https://buildings.lbl.gov/people/zhe-walter-wang"
           affiliation: "Lawrence Berkeley National Laboratory"
-        - name: "Bingqing Chen"
-          url: "https://www.inferlab.org/authors/bingqingc/"
-          affiliation: "Carnegie Mellon University"
         - name: "Duc Van Le"
           url: ""
           affiliation: "NTU Singapore"
