@@ -109,6 +109,16 @@ params:
           affiliation: "University of Texas at Austin"
         - name: "Mario Berges"
           affiliation: "Carnegie Mellon University"
+    - role: "Technical Program Committee Chairs"
+      chair: true
+      member:
+        - name: "Mario Berges"
+          affiliation: "Carnegie Mellon University"
+        - name: "Bingqing Chen"
+          affiliation: "Carnegie Mellon University"
+        - name: "June Young Park"
+          affiliation: "University of Texas at Arlington"
+          
     - role: "Technical Program Committee"
       chair: false
       member:
@@ -117,7 +127,7 @@ params:
           affiliation: "University of Washington"
         - name: "June Young Park"
           url: "http://sites.utexas.edu/juneyoungpark/"
-          affiliation: "University of Texas at Austin"
+          affiliation: "University of Texas at Arlington"
         - name: "Helia Zandi"
           url: "https://www.ornl.gov/staff-profile/helia-zandi"
           affiliation: "Oak Ridge National Laboratory"
