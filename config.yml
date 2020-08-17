@@ -107,8 +107,6 @@ params:
       member:
         - name: "Zoltan Nagy"
           affiliation: "University of Texas at Austin"
-        - name: "Mario Berges"
-          affiliation: "Carnegie Mellon University"
     - role: "Technical Program Committee"
       chair: true
       member:
