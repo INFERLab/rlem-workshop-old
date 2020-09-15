@@ -9,7 +9,7 @@ params:
   # Conference info
   Name: "First Int'l Workshop on Reinforcement Learning for Energy Management in Buildings & Cities (RLEM)"
   Description: "RLEM brings together researchers and industry practitioners for the advancement of (deep) reinforcement learning (RL) in the built environment as it is applied for managing energy in civil infrastructure systems (energy, water, transportation)."
-  Date: " in November 2020"
+  Date: " in November 17th 2020"
   #Price: "TBD" # If your event is free, just comment this line
   Venue: "Yokohama, Japan"
   Address: "Online"
@@ -79,6 +79,9 @@ params:
       done: false 
     - name: "Camera Ready"
       date: "September 28, 2020 (AOE)"
+      done: false 
+    - name: "Workshop date"
+      date: "November 17, 2020"
       done: false 
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
