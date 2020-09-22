@@ -24,7 +24,7 @@ params:
     - about
     - important
     - cfp
-    #- registration
+    - registration
     #- program
     - speakers
     - organization
