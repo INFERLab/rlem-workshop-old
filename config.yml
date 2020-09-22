@@ -59,13 +59,12 @@ params:
     partners: 
         title: "Partners"
     # contact: "Contact"
-  registration:
-    text: "register now!"
+
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
     text: "Register now!"
-    link: "http://buildsys.acm.org/2020/registration/"
+    link: "https://www.eventbrite.com/e/rlem-workshop-2020-virtual-exact-time-tbd-tickets-121127289985"
 
   # List of Important Days
   Important:
@@ -119,6 +118,7 @@ params:
         - name: "Bingqing Chen"
           affiliation: "Carnegie Mellon University"
         - name: "June Young Park"
+          url: "blog.uta.edu/parkjy"
           affiliation: "University of Texas at Arlington"
     - role: "Technical Program Committee"
       chair: false
