@@ -59,7 +59,8 @@ params:
     partners: 
         title: "Partners"
     # contact: "Contact"
-
+  registration:
+    text: "register now!"
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
