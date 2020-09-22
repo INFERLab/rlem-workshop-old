@@ -17,6 +17,7 @@ params:
   # State: "Quintana"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
+  Registeration: "Eventbite"
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
@@ -24,7 +25,7 @@ params:
     - about
     - important
     - cfp
-    - registration
+    #- registration
     #- program
     - speakers
     - organization
