@@ -28,6 +28,7 @@ params:
     #- program
     - speakers
     - organization
+    - CallToAction
     #- sponsors
     #- partners
     #- previous
@@ -118,7 +119,7 @@ params:
         - name: "Bingqing Chen"
           affiliation: "Carnegie Mellon University"
         - name: "June Young Park"
-          url: "blog.uta.edu/parkjy"
+          url: "https://blog.uta.edu/parkjy"
           affiliation: "University of Texas at Arlington"
     - role: "Technical Program Committee"
       chair: false
