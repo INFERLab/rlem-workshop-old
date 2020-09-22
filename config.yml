@@ -28,7 +28,6 @@ params:
     #- program
     - speakers
     - organization
-    - CallToAction
     #- sponsors
     #- partners
     #- previous
