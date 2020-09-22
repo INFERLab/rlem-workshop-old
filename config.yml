@@ -119,7 +119,7 @@ params:
         - name: "Bingqing Chen"
           affiliation: "Carnegie Mellon University"
         - name: "June Young Park"
-          url: "http://nagy.caee.utexas.edu"
+          url: "http://blog.uta.edu/parkjy/"
           affiliation: "University of Texas at Arlington"
     - role: "Technical Program Committee"
       chair: false
