@@ -71,13 +71,13 @@ params:
   Important:
     - name: "Abstract submission"
       date: "August 10, 2020 (AOE)"
-      done: false 
+      done: true 
     - name: "Paper submission"
       date: "August 17, 2020 (AOE)"
-      done: false 
+      done: true 
     - name: "Notifications"
       date: "September 21, 2020 (AOE)"
-      done: false 
+      done: true 
     - name: "Camera Ready"
       date: "October 5, 2020 (AOE)"
       done: false 
