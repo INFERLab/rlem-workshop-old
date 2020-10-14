@@ -167,15 +167,15 @@ params:
  #         url: ""
  #         affiliation: ""
           
- # The entire program 
- Program:
- - type: "date"
- date: "TBD"
+  # The entire program 
+  Program:
+    - type: "date"
+      date: "TBD"
 
- - type: "session"
- time: "9:00 - 10:30"
- name: "TBD"
- link: "speaker"
+    - type: "session"
+      time: "9:00 - 10:30"
+      name: "TBD"
+      link: "speaker"
 
   # Keynote speaker
   Speakers:
