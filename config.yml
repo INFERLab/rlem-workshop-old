@@ -185,6 +185,7 @@ params:
       time: "13:00 - 13:50"
       title: "Paper 1"
       author: "Authors 1"
+      name: "Name 1"
       
     - type: "session"
       name: "Paper 2" 
