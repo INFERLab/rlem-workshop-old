@@ -183,7 +183,7 @@ params:
       
     - type: "session"
       time: "13:00 - 13:50"
-      name: "Paper 1 1".\n."bla"
+      name: "Paper 1 1"
       
     - type: "session"
       name: "Paper 2" 
