@@ -181,7 +181,7 @@ params:
     - type: "date"
       date: "Session 1: Demanding Response"
       
-    - type: "session"
+    - type: "presentation"
       time: "13:00 - 13:50"
       title: "Paper 1"
       author: "Authors 1"
