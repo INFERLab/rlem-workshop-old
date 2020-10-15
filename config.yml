@@ -210,7 +210,7 @@ params:
       date: "Session 3: Keeping it ReaL"
    
    - type: "session"
-      time: "15:50–--16:00"
+      time: "15:50 - 16:00"
       name: "Closing remarks"
 
   # Keynote speaker
