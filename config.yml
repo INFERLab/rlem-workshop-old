@@ -173,9 +173,17 @@ params:
       date: "TBD"
 
     - type: "session"
-      time: "9:00 - 10:30"
-      name: "TBD"
-      link: "speaker"
+      time: "12:00 - 12:10"
+      name: Opening remarks, General Chair
+   
+    - type: "session"
+      time: "12:10 - 12:20"
+      name: Introduction, TPC Chairs
+      
+    - type: "session"
+      time: "12:20 - 13:00"
+      name: Keynote: Incorporating robust control guarantees within (deep) reinforcement learning
+     
 
   # Keynote speaker
   Speakers:
