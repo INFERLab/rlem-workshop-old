@@ -181,11 +181,9 @@ params:
     - type: "date"
       date: "Session 1: Demanding Response"
       
-    - type: "poster"
+    - type: "session"
       time: "13:00 - 13:50"
-      title: "Paper 1"
-      author: "Authors 1"
-      name: "Name 1"
+      name: "Paper 1 1".\n."bla"
       
     - type: "session"
       name: "Paper 2" 
