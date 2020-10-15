@@ -170,7 +170,7 @@ params:
   # The entire program 
   Program:
     
-    - type: "presentation"
+    - type: "session"
       time: "12:00 - 12:20"
       name: "Opening remarks, by General Chair and TPC Chairs"
       
@@ -201,10 +201,17 @@ params:
     - type: "date"
       date: "Session 2: Clash of Algorithms"
       
+   - type: "session"
+      time: "14:50 - 15:00"
+      name: "Break"
+      
       
     - type: "date"
       date: "Session 3: Keeping it ReaL"
-     
+   
+   - type: "session"
+      time: "15:50–--16:00"
+      name: "Closing remarks"
 
   # Keynote speaker
   Speakers:
