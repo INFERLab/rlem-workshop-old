@@ -170,7 +170,7 @@ params:
   # The entire program 
   Program:
     
-    - type: "session"
+    - type: "presentation"
       time: "12:00 - 12:20"
       name: "Opening remarks, by General Chair and TPC Chairs"
       
