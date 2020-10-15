@@ -169,20 +169,32 @@ params:
           
   # The entire program 
   Program:
-    - type: "date"
-      date: "TBD"
-
+    
     - type: "session"
-      time: "12:00 - 12:10"
-      name: "Opening remarks, General Chair"
-   
-    - type: "session"
-      time: "12:10 - 12:20"
-      name: "Introduction, TPC Chairs"
+      time: "12:00 - 12:20"
+      name: "Opening remarks, by General Chair and TPC Chairs"
       
     - type: "session"
       time: "12:20 - 13:00"
       name: "Keynote: Incorporating robust control guarantees within (deep) reinforcement learning"
+    
+    - type: "date"
+      date: "Session 1: Demanding Response"
+      
+    - type: "session"
+      time: "13:00 - 13:50"
+      name: "Paper 1 <br> Paper 2 <br> Paper 3"  
+    
+    - type: "session"
+      time: "13:50 - 14:00"
+      name: "Break"  
+      
+    - type: "date"
+      date: "Session 2: Clash of Algorithms"
+      
+      
+    - type: "date"
+      date: "Session 3: Keeping it ReaL"
      
 
   # Keynote speaker
