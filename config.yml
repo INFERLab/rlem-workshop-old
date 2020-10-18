@@ -204,8 +204,7 @@ params:
    - type: "session"
       time: "14:50 - 15:00"
       name: "Break"
-      
-      
+     
     - type: "date"
       date: "Session 3: Keeping it ReaL"
    
