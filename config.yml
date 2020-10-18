@@ -203,6 +203,22 @@ params:
       
     - type: "date"
       date: "Session 2: Clash of Algorithms"
+    
+    - type: "session"
+      time: "14:00 - 14:50"
+      name: "Less is More: Simplified State-Action Space for Deep Reinforcement Learning based HVAC Control"
+      
+    - type: "session"
+      name: "Continual adaptation in deep reinforcement learning-based control applied to non-stationary building environments" 
+      
+    - type: "session"
+      name: "A Comparison of Model-Free and Model Predictive Control for Price Responsive Water Heaters"
+    
+    - type: "session"
+      name: "Flexible Reinforcement Learning Framework for Building Control using EnergyPlus-Modelica Energy Models"
+      
+    - type: "session"
+      name: "Discussion"
       
    - type: "session"
       time: "14:50 - 15:00"
@@ -210,6 +226,22 @@ params:
      
     - type: "date"
       date: "Session 3: Keeping it ReaL"
+      
+    - type: "session"
+      time: "15:00 - 15:50"
+      name: "Augmenting Reinforcement Learning with a Planning Model for Optimizing Energy Demand Response in a Prospective Experiment"
+      
+    - type: "session"
+      name: "Transferable Reinforcement Learning for Smart Homes"
+      
+    - type: "session"
+      name: "Deep Reinforcement Learning in Buildings: Implicit Assumptions and their Impact"
+    
+    - type: "session"
+      name: "Towards Off-policy Evaluation as a Prerequisite for Real-world Reinforcement Learning in Building Control"
+      
+    - type: "session"
+      name: "Discussion" 
    
    - type: "session"
       time: "15:50 - 16:00"
