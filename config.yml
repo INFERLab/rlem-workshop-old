@@ -246,6 +246,9 @@ params:
     - type: "session"
       time: "15:50 - 16:00"
       name: "Closing remarks"
+    
+    - type: "date"
+      date: "Happy Hour"
 
   # Keynote speaker
   Speakers:
