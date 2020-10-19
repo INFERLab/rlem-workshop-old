@@ -220,7 +220,7 @@ params:
     - type: "session"
       name: "Discussion"
       
-   - type: "session"
+    - type: "session"
       time: "14:50 - 15:00"
       name: "Break"
      
@@ -243,7 +243,7 @@ params:
     - type: "session"
       name: "Discussion" 
    
-   - type: "session"
+    - type: "session"
       time: "15:50 - 16:00"
       name: "Closing remarks"
 
