@@ -170,9 +170,6 @@ params:
   # The entire program 
   Program:
     
-    - presentation: "presentation"
-    - title: "title"
-    
     - type: "session"
       time: "12:00 - 12:20"
       name: "Opening remarks, by General Chair and TPC Chairs"
@@ -186,7 +183,7 @@ params:
       
     - type: "session"
       time: "13:00 - 13:50"
-      name: "Demand Response through Price-setting Multi-agent Reinforcement Learning"
+      name: "M.H. Christensen, C. Ernewein, P. Pinson (Technical University of Denmark), Demand Response through Price-setting Multi-agent Reinforcement Learning"
       
     - type: "session"
       name: "Electricity Pricing aware Deep Reinforcement Learning based Intelligent HVAC Control" 
