@@ -183,16 +183,16 @@ params:
       
     - type: "session"
       time: "13:00 - 13:50"
-      name: "M.H. Christensen, C. Ernewein, P. Pinson (Technical University of Denmark), Demand Response through Price-setting Multi-agent Reinforcement Learning"
+      name: "M.H. Christensen, C. Ernewein, P. Pinson (Technical University of Denmark)—Demand Response through Price-setting Multi-agent Reinforcement Learning"
       
     - type: "session"
-      name: "Electricity Pricing aware Deep Reinforcement Learning based Intelligent HVAC Control" 
+      name: "K. Kurte, J. Munk, K. Amasyali, O. Kotevska, R. Smith, H. Zandi (Oak Ridge National Laboratory)—Electricity Pricing aware Deep Reinforcement Learning based Intelligent HVAC Control" 
       
     - type: "session"
-      name: "A Centralised Soft Actor Critic Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn"
+      name: "A. Kathirgamanathan, K. Twardowski, E. Mangina, D. Finn (University College Dublin)—A Centralised Soft Actor Critic Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn"
     
     - type: "session"
-      name: "Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms on a Building Energy Demand Coordination Task"
+      name: "G. Dhamankar, J. Vazquez-Canteli, Z. Nagy (The University of Texas at Austin)—Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms on a Building Energy Demand Coordination Task"
       
     - type: "session"
       name: "Discussion" 
@@ -206,16 +206,16 @@ params:
     
     - type: "session"
       time: "14:00 - 14:50"
-      name: "Less is More: Simplified State-Action Space for Deep Reinforcement Learning based HVAC Control"
+      name: "S. Murugensan, Z. Jiang, M. Risbeck, J. Amores, C. Zhang, V. Ramamurti, K. Drees, Y. Lee (Johnson Controls Inc)—Less is More: Simplified State-Action Space for Deep Reinforcement Learning based HVAC Control"
       
     - type: "session"
-      name: "Continual adaptation in deep reinforcement learning-based control applied to non-stationary building environments" 
+      name: "A. Naug, M. Quinones, G. Biswas (Vanderbilt University)—Continual adaptation in deep reinforcement learning-based control applied to non-stationary building environments" 
       
     - type: "session"
-      name: "A Comparison of Model-Free and Model Predictive Control for Price Responsive Water Heaters"
+      name: "D. Biagioni, X. Zhang, P. Graf, D. Sigler, W. Jones (National Renewable Energy Laboratory)—A Comparison of Model-Free and Model Predictive Control for Price Responsive Water Heaters"
     
     - type: "session"
-      name: "Flexible Reinforcement Learning Framework for Building Control using EnergyPlus-Modelica Energy Models"
+      name: "J. Lee, S. Huang, A. Rahman, A. Smith, S. Katipamula (Pacific Northwest National Laboratory)—Flexible Reinforcement Learning Framework for Building Control using EnergyPlus-Modelica Energy Models"
       
     - type: "session"
       name: "Discussion"
@@ -229,16 +229,16 @@ params:
       
     - type: "session"
       time: "15:00 - 15:50"
-      name: "Augmenting Reinforcement Learning with a Planning Model for Optimizing Energy Demand Response in a Prospective Experiment"
+      name: "L. Spangher, A. Gokul, M. Khattar, J. Palakapilly, A. Tawade, U. Agwan, C. Spanos (University of California, Berkeley)—Augmenting Reinforcement Learning with a Planning Model for Optimizing Energy Demand Response in a Prospective Experiment"
       
     - type: "session"
-      name: "Transferable Reinforcement Learning for Smart Homes"
+      name: "X. Zhang, X. Jin, C. Tripp, D. Biagioni, P. Graf, H. Jiang (National Renewable Energy Laboratory)—Transferable Reinforcement Learning for Smart Homes"
       
     - type: "session"
-      name: "Deep Reinforcement Learning in Buildings: Implicit Assumptions and their Impact"
+      name: "A. Prakash, S. Touzani, M. Kiran, S. Agarwal, M. Pritoni, J. Granderson (Lawrence Berkeley National Laboratory)—Deep Reinforcement Learning in Buildings: Implicit Assumptions and their Impact"
     
     - type: "session"
-      name: "Towards Off-policy Evaluation as a Prerequisite for Real-world Reinforcement Learning in Building Control"
+      name: "B. Chen (Carnegie Mellon University), M. Jin (Virginia Tech), Z. Wang, T. Hong (Lawrence Berkeley National Laboratory), M. Berges (Carnegie Mellon University)—Towards Off-policy Evaluation as a Prerequisite for Real-world Reinforcement Learning in Building Control"
       
     - type: "session"
       name: "Discussion" 
