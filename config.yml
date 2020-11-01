@@ -184,6 +184,7 @@ params:
     - type: "session"
       time: "13:00 - 13:50"
       name: "Demand Response through Price-setting Multi-agent Reinforcement Learning"
+      author: "author"
       
     - type: "session"
       name: "Electricity Pricing aware Deep Reinforcement Learning based Intelligent HVAC Control" 
