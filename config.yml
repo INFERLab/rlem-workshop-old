@@ -64,8 +64,8 @@ params:
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
-    text: "Register now!"
-    link: "https://www.eventbrite.com/e/rlem-workshop-2020-virtual-exact-time-tbd-tickets-121127289985"
+    text: "Register now via BuildSys 2020!"
+    link: "http://buildsys.acm.org/2020/"
 
   # List of Important Days
   Important:
@@ -80,7 +80,7 @@ params:
       done: true 
     - name: "Camera Ready"
       date: "October 10, 2020 (AOE)"
-      done: false 
+      done: true 
     - name: "Workshop date"
       date: "November 17, 2020"
       done: false 
