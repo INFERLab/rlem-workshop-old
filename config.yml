@@ -187,6 +187,7 @@ params:
       
     - type: "session"
       name: "K. Kurte, J. Munk, K. Amasyali, O. Kotevska, R. Smith, H. Zandi (Oak Ridge National Laboratory)—Electricity Pricing aware Deep Reinforcement Learning based Intelligent HVAC Control" 
+      link: "https://youtu.be/T6s2xdECsrs"
       
     - type: "session"
       name: "A. Kathirgamanathan, K. Twardowski, E. Mangina, D. Finn (University College Dublin)—A Centralised Soft Actor Critic Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn"
