@@ -184,6 +184,7 @@ params:
     - type: "session"
       time: "13:00 - 13:50"
       name: "M.H. Christensen, C. Ernewein, P. Pinson (Technical University of Denmark)—Demand Response through Price-setting Multi-agent Reinforcement Learning"
+      link: "https://youtu.be/_f0L313_4xE"
       
     - type: "session"
       name: "K. Kurte, J. Munk, K. Amasyali, O. Kotevska, R. Smith, H. Zandi (Oak Ridge National Laboratory)—Electricity Pricing aware Deep Reinforcement Learning based Intelligent HVAC Control" 
@@ -191,9 +192,11 @@ params:
       
     - type: "session"
       name: "A. Kathirgamanathan, K. Twardowski, E. Mangina, D. Finn (University College Dublin)—A Centralised Soft Actor Critic Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn"
-    
+      link: "https://youtu.be/mviLSJueV3k"
+      
     - type: "session"
       name: "G. Dhamankar, J. Vazquez-Canteli, Z. Nagy (The University of Texas at Austin)—Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms on a Building Energy Demand Coordination Task"
+      link: "https://youtu.be/eWlVPKIB23o"
       
     - type: "session"
       name: "Discussion" 
@@ -211,12 +214,15 @@ params:
       
     - type: "session"
       name: "A. Naug, M. Quinones, G. Biswas (Vanderbilt University)—Continual adaptation in deep reinforcement learning-based control applied to non-stationary building environments" 
+      link: "https://youtu.be/5hPpjLzJqSw"
       
     - type: "session"
       name: "D. Biagioni, X. Zhang, P. Graf, D. Sigler, W. Jones (National Renewable Energy Laboratory)—A Comparison of Model-Free and Model Predictive Control for Price Responsive Water Heaters"
-    
+      link: "https://youtu.be/yz9GaHU7lzM"
+      
     - type: "session"
       name: "J. Lee, S. Huang, A. Rahman, A. Smith, S. Katipamula (Pacific Northwest National Laboratory)—Flexible Reinforcement Learning Framework for Building Control using EnergyPlus-Modelica Energy Models"
+      link: "https://youtu.be/_amrG8G3pA0"
       
     - type: "session"
       name: "Discussion"
@@ -237,9 +243,11 @@ params:
       
     - type: "session"
       name: "A. Prakash, S. Touzani, M. Kiran, S. Agarwal, M. Pritoni, J. Granderson (Lawrence Berkeley National Laboratory)—Deep Reinforcement Learning in Buildings: Implicit Assumptions and their Impact"
-    
+      link: "https://youtu.be/roAOQRmu-_M"
+      
     - type: "session"
       name: "B. Chen (Carnegie Mellon University), M. Jin (Virginia Tech), Z. Wang, T. Hong (Lawrence Berkeley National Laboratory), M. Berges (Carnegie Mellon University)—Towards Off-policy Evaluation as a Prerequisite for Real-world Reinforcement Learning in Building Control"
+      link: "https://youtu.be/zlk_TDNC4qk"
       
     - type: "session"
       name: "Discussion" 
