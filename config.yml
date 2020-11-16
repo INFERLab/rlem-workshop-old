@@ -116,8 +116,10 @@ params:
       member:
         - name: "Mario Berges"
           affiliation: "Carnegie Mellon University"
+          url: "https://inferlab.org/author/mario-berges/"
         - name: "Bingqing Chen"
           affiliation: "Carnegie Mellon University"
+          url: "https://inferlab.org/author/bingqing-chen/"
         - name: "June Young Park"
           url: "http://blog.uta.edu/parkjy/"
           affiliation: "University of Texas at Arlington"
