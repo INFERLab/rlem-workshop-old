@@ -1,0 +1,35 @@
+<nav id="nav">
+  <div class="wrapper">
+    <ul class="social-left">
+      {{ range $section := $.Site.Params.Sections }}
+      {{ $title := index $.Site.Params.Titles $section }}
+      <li class="nav-item">
+        <a href="#{{ $section }}" target="_blank" rel="noopener" title="{{ $title.title }}" class="nav-link nav-link-big">
+          {{ if eq $title.abbr "About" }}
+          <i class="fa fa-home fa" href="#{{ $section }}" target="_blank" rel="noopener"></i>
+          {{ else if ne $title.abbr nil }}
+          {{ $title.abbr }}
+          {{ else }}
+          {{ $title.title }}
+          {{ end }}
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+    <!---
+    <div class="social-right">
+      <a href="https://twitter.com/">
+        <span class="social fa fa-twitter fa-2x"></span>
+      </a>
+      <a href="https://www.facebook.com/">
+        <span class="social fa fa-facebook fa-2x"></span>
+      </a>
+      <a href="https://github.com/">
+        <span class="social fa fa-github fa-2x"></span>
+      </a>
+    </div>
+    --->
+  </div>
+</nav>
+
+<hr>
