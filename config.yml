@@ -31,7 +31,7 @@ params:
     - organization
     #- sponsors
     #- partners
-    - previous
+    #- previous
     #- contact
 
   # Titles which you can translate to other languages
@@ -60,9 +60,9 @@ params:
     partners:
         title: "Partners"
     # contact: "Contact"
-    previous:
-        title: "Past RLEM"
-        abbr: "Past"
+    #previous:
+    #    title: "Past RLEM"
+    #    abbr: "Past"
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
   CallToAction:
@@ -128,13 +128,15 @@ params:
         - name: "June Young Park"
           url: "http://blog.uta.edu/parkjy/"
           affiliation: "University of Texas at Arlington"
+    - role: "Web"
+      chair: True
+      member:
         - name: "Matias Quintana"
           url: "https://matiasquintana.com/"
           affiliation: "National University of Singapore"
     - role: "Technical Program Committee"
       chair: false
       member:
-
         # - name: "Henning Lange"
         #   url: "https://amath.washington.edu/people/henning-lange"
         #   affiliation: "University of Washington"
