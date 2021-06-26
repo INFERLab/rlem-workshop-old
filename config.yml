@@ -75,7 +75,7 @@ params:
       date: "August 16, 2021 (AOE)"
       done: false
     - name: "Paper submission"
-      date: "August 21, 2021 (AOE)"
+      date: "August 23, 2021 (AOE)"
       done: false
     - name: "Notifications"
       date: "September 27, 2021 (AOE)"
@@ -84,7 +84,7 @@ params:
       date: "October 11, 2021 (AOE)"
       done: false
     - name: "Workshop date"
-      date: "November 17, 2021"
+      date: "TBD" #"November 17, 2021"
       done: false
   # List of Previous Editions
   Previous:
