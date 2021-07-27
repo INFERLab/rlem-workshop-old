@@ -81,7 +81,7 @@ params:
       date: "September 27, 2021 (AOE)"
       done: false
     - name: "Camera Ready"
-      date: "October 11, 2021 (AOE)"
+      date: "October 1, 2021 (AOE)"
       done: false
     - name: "Workshop date"
       date: "TBD" #"November 17, 2021"
@@ -279,6 +279,9 @@ params:
 
   # Keynote speaker
   Speakers:
-    #- name: "Zico Kolter"
-    #  url: "https://zicokolter.com/"
-    #  affiliation: "CMU"
+    - name: "Helia Zandi"
+      url: "https://www.ornl.gov/staff-profile/helia-zandi"
+      affiliation: "Oak Ridge National Lab"
+    - name: "Gregor Henze"
+      url: "https://www.colorado.edu/ceae/gregor-p-henze"
+      affilitation: "CU Boulder"
