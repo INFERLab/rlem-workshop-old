@@ -276,6 +276,8 @@ params:
     - name: "Helia Zandi"
       url: "https://www.ornl.gov/staff-profile/helia-zandi"
       affiliation: "Oak Ridge National Lab"
+      photo: "/img/helia_zandi.jpg"
     - name: "Gregor Henze"
       url: "https://www.colorado.edu/ceae/gregor-p-henze"
       affilitation: "CU Boulder"
+      photo: "/img/gregor_henze.png"
