@@ -72,10 +72,10 @@ params:
   # List of Important Days
   Important:
     - name: "Abstract submission"
-      date: "August 16, 2021 (AOE)"
+      date: "September 6, 2021 (AOE)"
       done: false
     - name: "Paper submission"
-      date: "August 23, 2021 (AOE)"
+      date: "September 6, 2021 (AOE)"
       done: false
     - name: "Notifications"
       date: "September 27, 2021 (AOE)"
