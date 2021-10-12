@@ -188,94 +188,41 @@ params:
 
   # The entire program
   Program:
-    #    - type: "session"
-    #      time: "12:00 - 12:20"
-    #      name: "Opening remarks, by General Chair and TPC Chairs"
-    #
-    #    - type: "session"
-    #      time: "12:20 - 13:00"
-    #      name: "Keynote: Incorporating robust control guarantees within (deep) reinforcement learning"
-    #
-    #    - type: "date"
-    #      date: "Session 1: Demanding Response"
-    #
-    #    - type: "session"
-    #      time: "13:00 - 13:50"
-    #      name: "M.H. Christensen, C. Ernewein, P. Pinson (Technical University of Denmark)—Demand Response through Price-setting Multi-agent Reinforcement Learning"
-    #      link: "https://youtu.be/_f0L313_4xE"
-    #
-    #    - type: "session"
-    #      name: "K. Kurte, J. Munk, K. Amasyali, O. Kotevska, R. Smith, H. Zandi (Oak Ridge National Laboratory)—Electricity Pricing aware Deep Reinforcement Learning based Intelligent HVAC Control"
-    #      link: "https://youtu.be/T6s2xdECsrs"
-    #
-    #    - type: "session"
-    #      name: "A. Kathirgamanathan, K. Twardowski, E. Mangina, D. Finn (University College Dublin)—A Centralised Soft Actor Critic Deep Reinforcement Learning Approach to District Demand Side Management through CityLearn"
-    #      link: "https://youtu.be/mviLSJueV3k"
-    #
-    #    - type: "session"
-    #      name: "G. Dhamankar, J. Vazquez-Canteli, Z. Nagy (The University of Texas at Austin)—Benchmarking Multi-Agent Deep Reinforcement Learning Algorithms on a Building Energy Demand Coordination Task"
-    #      link: "https://youtu.be/eWlVPKIB23o"
-    #
-    #    - type: "session"
-    #      name: "Discussion"
-    #
-    #    - type: "session"
-    #      time: "13:50 - 14:00"
-    #      name: "Break"
-    #
-    #    - type: "date"
-    #      date: "Session 2: Clash of Algorithms"
-    #
-    #    - type: "session"
-    #      time: "14:00 - 14:50"
-    #      name: "S. Murugensan, Z. Jiang, M. Risbeck, J. Amores, C. Zhang, V. Ramamurti, K. Drees, Y. Lee (Johnson Controls Inc)—Less is More: Simplified State-Action Space for Deep Reinforcement Learning based HVAC Control"
-    #
-    #    - type: "session"
-    #      name: "A. Naug, M. Quinones, G. Biswas (Vanderbilt University)—Continual adaptation in deep reinforcement learning-based control applied to non-stationary building environments"
-    #      link: "https://youtu.be/5hPpjLzJqSw"
-    #
-    #    - type: "session"
-    #      name: "D. Biagioni, X. Zhang, P. Graf, D. Sigler, W. Jones (National Renewable Energy Laboratory)—A Comparison of Model-Free and Model Predictive Control for Price Responsive Water Heaters"
-    #      link: "https://youtu.be/yz9GaHU7lzM"
-    #
-    #    - type: "session"
-    #      name: "J. Lee, S. Huang, A. Rahman, A. Smith, S. Katipamula (Pacific Northwest National Laboratory)—Flexible Reinforcement Learning Framework for Building Control using EnergyPlus-Modelica Energy Models"
-    #      link: "https://youtu.be/_amrG8G3pA0"
-    #
-    #    - type: "session"
-    #      name: "Discussion"
-    #
-    #    - type: "session"
-    #      time: "14:50 - 15:00"
-    #      name: "Break"
-    #
-    #    - type: "date"
-    #      date: "Session 3: Keeping it ReaL"
-    #
-    #    - type: "session"
-    #      time: "15:00 - 15:50"
-    #      name: "L. Spangher, A. Gokul, M. Khattar, J. Palakapilly, A. Tawade, U. Agwan, C. Spanos (University of California, Berkeley)—Augmenting Reinforcement Learning with a Planning Model for Optimizing Energy Demand Response in a Prospective Experiment"
-    #
-    #    - type: "session"
-    #      name: "X. Zhang, X. Jin, C. Tripp, D. Biagioni, P. Graf, H. Jiang (National Renewable Energy Laboratory)—Transferable Reinforcement Learning for Smart Homes"
-    #
-    #    - type: "session"
-    #      name: "A. Prakash, S. Touzani, M. Kiran, S. Agarwal, M. Pritoni, J. Granderson (Lawrence Berkeley National Laboratory)—Deep Reinforcement Learning in Buildings: Implicit Assumptions and their Impact"
-    #      link: "https://youtu.be/roAOQRmu-_M"
-    #
-    #    - type: "session"
-    #      name: "B. Chen (Carnegie Mellon University), M. Jin (Virginia Tech), Z. Wang, T. Hong (Lawrence Berkeley National Laboratory), M. Berges (Carnegie Mellon University)—Towards Off-policy Evaluation as a Prerequisite for Real-world Reinforcement Learning in Building Control"
-    #      link: "https://youtu.be/zlk_TDNC4qk"
-    #
-    #    - type: "session"
-    #      name: "Discussion"
-    #
-    #    - type: "session"
-    #      time: "15:50 - 16:00"
-    #      name: "Closing remarks"
-    #
-    #    - type: "date"
-    #      date: "Happy Hour"
+    - type: "session"
+      time: "15:00 - 15:20"
+      name: "Opening remarks, by General Chair and TPC Chairs"
+
+    - type: "session"
+      time: "15:20 - 16:00"
+      name: "1st Keynote: Gregor Henze"
+
+    - type: "session"
+      time: "16:00 - 16:50"
+      name: "Session 1: Addressing challenges of applying RL in real-world buildings"
+
+    - type: "session"
+      time: "16:50 - 17:00"
+      name: "Break"
+
+    - type: "session"
+      time: "17:00 - 17:40"
+      name: "2nd Keynote: Helia Zandi"
+
+    - type: "session"
+      time: "17:40 - 18:30"
+      name: "Session 2: Benchmarking RL with other controls including other RLs"
+
+    - type: "session"
+      time: "18:30 - 18:40"
+      name: "Break"
+
+    - type: "session"
+      time: "18:40 - 19:50"
+      name: "Session 3: Testing environment"
+
+    - type: "session"
+      time: "19:50 - 20:00"
+      name: "Closing remarks"
 
   # Keynote speaker
   Speakers:
