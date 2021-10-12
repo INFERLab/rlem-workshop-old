@@ -1,6 +1,6 @@
 <h2 class="section-title">{{ .titles.program.title }}</h2>
 
-<p>All times in Eastern timezone (NY)</p>
+<p>All times in Western European timezone (GMT+1)</p>
 <div class="schedule-tbl">
   <table>
     <thead>
@@ -26,7 +26,7 @@
           <span class="schedule-lunch fa fa-cutlery fa-1x"></span>
           {{ end }}
           {{ with .link }}
-          <a href="{{ . }}" target="_blank" rel="noopener" class="nav-link"> 
+          <a href="{{ . }}" target="_blank" rel="noopener" class="nav-link">
             {{ end }}
             {{ .name }}
             {{ with .link }}
