@@ -84,7 +84,7 @@ params:
       date: "October 1, 2021 (AOE)"
       done: false
     - name: "Workshop date"
-      date: "TBD" #"November 17, 2021"
+      date: "November 16, 2021"
       done: false
   # List of Previous Editions
   Previous:
