@@ -196,9 +196,21 @@ params:
       time: "15:20 - 16:00"
       name: "1st Keynote: Gregor Henze (University of Colorado Boulder)"
 
+    - type: "date"
+      date: "Session 1: Addressing challenges of applying RL in real-world buildings"
+
     - type: "session"
       time: "16:00 - 16:50"
-      name: "Session 1: Addressing challenges of applying RL in real-world buildings"
+      name: "A. Naug (Vanderbilt University), M. Quinones-Grueiro (Vanderbilt University), G. Biswas (Vanderbilt University) - Sensitivity and Robustness of End-to-end Data-Driven Approach for Building Performance Op-timization"
+      link:
+
+    - type: "session"
+      name: "M. Biemann (TU Denmark), X. Liu (TU Denmark), Y. Zeng (Northumbria University), L. Huang (Norwegian University of Science and Technology) - Addressing partial observability in reinforcement learning for energy management"
+      link:
+
+    - type: "session"
+      name: "K. Jneid (Université Grenoble Alpes, LIG), S. Ploix (Grenoble INP), P. Reignier (Université Greno-ble Alpes, LIG), P. Jallon (eLichens) - Deep Q-Network Boosted with External Knowledge for HVAC Control"
+      link:
 
     - type: "session"
       time: "16:50 - 17:00"
@@ -212,9 +224,22 @@ params:
       time: "17:40 - 18:00"
       name: "Community Announcements"
 
+    - type: "date"
+      date: "Session 2: Benchmarking RL with other controls including other RLs"
+
     - type: "session"
       time: "18:00 - 18:50"
-      name: "Session 2: Benchmarking RL with other controls including other RLs"
+      name: "K. Kurte (ORNL), K. Amasyali (ORNL), J. Munk(ORNL), H. Zandi (ORNL) - Comparative Analysis of Model-Free and Model-Based HVAC Control for Residential Demand Response"
+      link:
+
+    - type: "session"
+      name: "J. Jiménez-Raboso (Universidad de Granada), A. Campoy-Nieves (Universidad de Granada), A. Manjavacas-Lucas (Universidad de Granada), J. Gómez-Romero (Universidad de Granada), M. Molina-Solana (Universidadde Granada) - Sinergym: A Building Simulation and Control Framework for Training Reinforcement Learning Agents"
+      link:
+
+    - type: "session"
+      name: "R. Glatt (LLNL), F. Leno da Silva (LLNL), B. Soper (LLNL), W. A. Dawson (LLNL), E. Rusu (LLNL), R. A. Goldhahn (LLNL) - Collaborative energy demand response with decentralized actor and centralized critic"
+      link:
+
 
     - type: "session"
       time: "18:50 - 19:00"
