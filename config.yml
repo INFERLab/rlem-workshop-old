@@ -194,7 +194,7 @@ params:
 
     - type: "session"
       time: "15:20 - 16:00"
-      name: "1st Keynote: Gregor Henze"
+      name: "1st Keynote: Gregor Henze (University of Colorado Boulder)"
 
     - type: "session"
       time: "16:00 - 16:50"
@@ -206,22 +206,26 @@ params:
 
     - type: "session"
       time: "17:00 - 17:40"
-      name: "2nd Keynote: Helia Zandi"
+      name: "2nd Keynote: Helia Zandi (Oak Ridge National Laboratory)"
 
     - type: "session"
-      time: "17:40 - 18:30"
+      time: "17:40 - 18:00"
+      name: "Community Announcements"
+
+    - type: "session"
+      time: "18:00 - 18:50"
       name: "Session 2: Benchmarking RL with other controls including other RLs"
 
     - type: "session"
-      time: "18:30 - 18:40"
+      time: "18:50 - 19:00"
       name: "Break"
 
     - type: "session"
-      time: "18:40 - 19:50"
+      time: "19:00 - 20:20"
       name: "Session 3: Testing environment"
 
     - type: "session"
-      time: "19:50 - 20:00"
+      time: "20:20 - 20:30"
       name: "Closing remarks"
 
   # Keynote speaker
