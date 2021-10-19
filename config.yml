@@ -222,7 +222,7 @@ params:
 
     - type: "session"
       time: "17:40 - 18:00"
-      name: "Community Announcements"
+      name: "Community Announcements (CityLearn Challenge Winners, Annex#81, Climate Change AI)"
 
     - type: "date"
       date: "Session 2: Benchmarking RL with other controls including other RLs"
@@ -240,14 +240,25 @@ params:
       name: "R. Glatt (LLNL), F. Leno da Silva (LLNL), B. Soper (LLNL), W. A. Dawson (LLNL), E. Rusu (LLNL), R. A. Goldhahn (LLNL) - Collaborative energy demand response with decentralized actor and centralized critic"
       link:
 
-
     - type: "session"
       time: "18:50 - 19:00"
       name: "Break"
 
+    - type: "date"
+      date: "Session 3: Testing environment"
+
     - type: "session"
       time: "19:00 - 20:20"
-      name: "Session 3: Testing environment"
+      name: "COBS: COmprehensive Building Simulator"
+      link: "https://github.com/sustainable-computing/COBS"
+
+    - type: "session"
+      name: "BOPTEST: Building Optimization Performance Test framework"
+      link: "https://github.com/ibpsa/project1-boptest"
+
+    - type: "session"
+      name: "CityLearn"
+      link: "https://github.com/intelligent-environments-lab/CityLearn"
 
     - type: "session"
       time: "20:20 - 20:30"
