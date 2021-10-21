@@ -194,7 +194,7 @@ params:
 
     - type: "session"
       time: "15:20 - 16:00"
-      name: "1st Keynote: Gregor Henze (University of Colorado Boulder)"
+      name: "1st Keynote: Andrey Bernstein (National Renewable Energy Laboratory)"
 
     - type: "date"
       date: "Session 1: Addressing challenges of applying RL in real-world buildings"
@@ -257,6 +257,10 @@ params:
       link: "https://github.com/ibpsa/project1-boptest"
 
     - type: "session"
+      name: "ACTB: Advanced Controls Test Bed"
+      link: ""
+
+    - type: "session"
       name: "CityLearn"
       link: "https://github.com/intelligent-environments-lab/CityLearn"
 
@@ -270,7 +274,7 @@ params:
       url: "https://www.ornl.gov/staff-profile/helia-zandi"
       affiliation: "Oak Ridge National Lab"
       photo: "/img/helia_zandi.jpg"
-    - name: "Gregor Henze"
-      url: "https://www.colorado.edu/ceae/gregor-p-henze"
-      affilitation: "CU Boulder"
-      photo: "/img/gregor_henze.png"
+    - name: "Andrey Bernstein"
+      url: "https://www.linkedin.com/in/andrey-bernstein-bba4622/"
+      affilitation: "National Renewable Energy Laboratory"
+      photo: "/img/andrey_bernstein.jpg"
