@@ -194,7 +194,7 @@ params:
 
     - type: "session"
       time: "15:20 - 16:00"
-      name: "1st Keynote: Andrey Bernstein (National Renewable Energy Laboratory)"
+      name: "1st Keynote: Helia Zandi (Oak Ridge National Laboratory)"
 
     - type: "date"
       date: "Session 1: Addressing challenges of applying RL in real-world buildings"
@@ -218,7 +218,7 @@ params:
 
     - type: "session"
       time: "17:00 - 17:40"
-      name: "2nd Keynote: Helia Zandi (Oak Ridge National Laboratory)"
+      name: "2nd Keynote: Andrey Bernstein (National Renewable Energy Laboratory)"
 
     - type: "session"
       time: "17:40 - 18:00"
