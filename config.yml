@@ -159,8 +159,8 @@ params:
           url: "https://www.ornl.gov/staff-profile/helia-zandi"
           affiliation: "Oak Ridge National Laboratory"
         - name: "Jose Vazquez-Canteli"
-          url: "https://onboarddata.io/about"
-          affiliation: "Onboard Data"
+          url: "https://www.mapped.com/about-us"
+          affiliation: "Mapped"
         - name: "Kuldeep Kurte"
           url: "https://www.ornl.gov/staff-profile/kuldeep-r-kurte"
           affiliation: "Oak Ridge National Laboratory"
@@ -258,6 +258,10 @@ params:
 
     - type: "session"
       name: "ACTB: Advanced Controls Test Bed"
+      link: ""
+
+    - type: "session"
+      name: "MODRL"
       link: ""
 
     - type: "session"
