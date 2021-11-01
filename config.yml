@@ -261,10 +261,6 @@ params:
       link: ""
 
     - type: "session"
-      name: "MODRL"
-      link: ""
-
-    - type: "session"
       name: "CityLearn"
       link: "https://github.com/intelligent-environments-lab/CityLearn"
 
