@@ -253,7 +253,7 @@ params:
       link: "https://github.com/sustainable-computing/COBS"
 
     - type: "session"
-      name: "BOPTEST: Building Optimization Performance Test framework"
+      name: "D. Blum, M. Wetter - Tools for the Design and Evaluation of Building Controls: Spawn of EnergyPlus, OpenBuildingControl, and BOPTEST"
       link: "https://github.com/ibpsa/project1-boptest"
 
     - type: "session"
@@ -261,8 +261,8 @@ params:
       link: ""
 
     - type: "session"
-      name: "CityLearn"
-      link: "https://github.com/intelligent-environments-lab/CityLearn"
+      name: "J. Vazquez-Canteli - CityLearn: Demand response using multi-agent reinforcement learning"
+      link: "www.citylearn.net"
 
     - type: "session"
       time: "20:20 - 20:30"
