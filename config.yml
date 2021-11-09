@@ -245,11 +245,11 @@ params:
       name: "Break"
 
     - type: "date"
-      date: "Session 3: Testing environment"
+      date: "Session 3: Getting started with RL"
 
     - type: "session"
       time: "19:00 - 20:20"
-      name: "COBS: COmprehensive Building Simulator"
+      name: "T. Zhang, O. Ardakanian - COBS: COmprehensive Building Simulator"
       link: "https://github.com/sustainable-computing/COBS"
 
     - type: "session"
@@ -257,7 +257,7 @@ params:
       link: "https://github.com/ibpsa/project1-boptest"
 
     - type: "session"
-      name: "ACTB: Advanced Controls Test Bed"
+      name: "T. Marzullo, S. Dey, N. Long, G. Henze - ACTB: Advanced Controls Test Bed"
       link: ""
 
     - type: "session"
