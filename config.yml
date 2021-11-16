@@ -262,7 +262,7 @@ params:
 
     - type: "session"
       name: "J. Vazquez-Canteli - CityLearn: Demand response using multi-agent reinforcement learning"
-      link: "www.citylearn.net"
+      link: "https://sites.google.com/view/citylearnchallenge"
 
     - type: "session"
       time: "20:20 - 20:30"
